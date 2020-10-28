@@ -23,8 +23,9 @@ While starting my AR/VR Specialization at Holberton School I started this side p
 - **Have Fun and Good Luck!**
 
 ### Connect With Me
-- **Twitter** https://twitter.com/Optimus_is_Me
-- **LinkedIn** https://www.linkedin.com/in/brandyn-reindel-372b57102/
-- **Other Games I've Made** https://sharemygame.com/@BrandynR
+- **[Twitter @Optimus_Is_Me](https://twitter.com/Optimus_is_Me)**
+- **[LinkedIn](https://www.linkedin.com/in/brandyn-reindel-372b57102/)**
+- **[Other Games I've Made](https://sharemygame.com/@BrandynR)**
+- **[Tetris 2D Clone](https://github.com/BrandynR/Tetris-2D-Clone)**
 
 > Written with [StackEdit](https://stackedit.io/).
