@@ -14,6 +14,8 @@ While starting my AR/VR Specialization at Holberton School I started this side p
 
 
 ## How to Play
+- Play **[Space Escape](https://sharemygame.com/@BrandynR/space-escape)** here
+- Play **[Space Escape v2](https://sharemygame.com/@BrandynR/space-escape-v2)** here
 
 - Use the **arrow keys** to steer the Rocketship left or right.
 - **Be careful** to avoid the obstacles, floor, and ceiling. 
